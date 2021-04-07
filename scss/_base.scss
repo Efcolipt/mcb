@@ -1,0 +1,12 @@
+$mainColor:#EABF51;
+$articleTextColor:#7B7575;
+$articleCaptionColor:#2F2F2F;
+$gasCaptionColor:#494949;
+$navColor:#A4A4A4;
+
+@mixin bg-white {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.37);
+    border-radius: 5px;
+    padding: 30px;
+}
